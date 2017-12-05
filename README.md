@@ -3,7 +3,7 @@
 <h3>Description</h3>
 <p>Using GoogleMaps API: Distance Matrix, Distance, Duration from Origin to Multiple Destinations are calculated.</p>
 <p></p>
-<img src="GoogleMapsDistanceMatrix_12_05_17.PNG" style="width:20%">
+<center><img src="GoogleMapsDistanceMatrix_12_05_17.PNG" style="width:20%"></center>
 <p></p>
 <h3>Implementation</h3>
 <ul>
